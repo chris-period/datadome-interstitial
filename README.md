@@ -6,6 +6,7 @@
 ## Contents
     │   README.md
     ├───datadome
+            index.js
     └───files
             1.11.4.js
             1.11.4.prod.js
