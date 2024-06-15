@@ -19,3 +19,6 @@
 ## Sites
     https://bounty-nodejs.datashield.co/
     https://tickets.rolandgarros.com/en
+
+## Thanks
+   Thanks to @zoro.69 actual goat! 
