@@ -44,10 +44,10 @@ A function that constructs the final payload string.
 `PseudoRandom`
 A class that generates pseudo-random bytes based on a seed and timestamp.
 
-- Constructor: Initializes the timeByte and seed.
-- getByte(): Generates and returns a pseudo-random byte.
-- xorValues(charCodesRaw): XOR's characodes with a psuedo-random byte
-- addSignal(itemKey, itemValue): Adds psuedo-random bytes to Bytes and calls xorValues
+- **Constructor**: Initializes the timeByte and seed.
+- **getByte()**: Generates and returns a pseudo-random byte.
+- **xorValues(charCodesRaw)**: XOR's characodes with a psuedo-random byte
+- **addSignal(itemKey, itemValue)**: Adds psuedo-random bytes to Bytes and calls xorValues
 
 
 ### Global Arrays
