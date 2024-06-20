@@ -1,5 +1,7 @@
 # Datadome Interstitial Reverse
 
+## Datadome
+    - DataDome is a "Bot & online fraud protection" service that is used in various websites. It's main goal is to stop bot-activity from spaming/attacking websites/services utilizing it. It's meant to "Detect and mitigate bot & online fraud attacks". 
 ## Why
     - Only because I thought it would be a fun challenge to do. Haven't seen many projects/repos/posts about how it works so I thought I'd give it a shot.
 
